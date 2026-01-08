@@ -290,7 +290,7 @@
 4	математикæ	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	дæр	_	PART	_	_	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
-7	нæ	_	INTJ	_	_	_	_	_	SpaceAfter=No
+7	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 8	?	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 20
@@ -423,7 +423,7 @@
 51	географийы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 52	ахуыргæнæг	_	NOUN	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No
 53	,	_	PUNCT	_	_	_	_	_	_
-54	нæ	_	INTJ	_	_	_	_	_	SpaceAfter=No
+54	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 55	?	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 24
@@ -486,7 +486,7 @@
 24	тæваг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 25	дæтты	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 26	,	_	PUNCT	_	_	_	_	_	_
-27	нæ	_	INTJ	_	Polarity=Neg	_	_	_	SpaceAfter=No
+27	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 28	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 27
@@ -596,7 +596,7 @@
 11	сцæттæ	_	NOUN	_	Case=Nom|Number=Sing|Prefix=Yes	_	_	_	_
 12	кæнынц	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 13	,	_	PUNCT	_	_	_	_	_	_
-14	нæ	_	INTJ	_	_	_	_	_	SpaceAfter=No
+14	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 15	?	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 35
@@ -3134,7 +3134,7 @@
 5	рахонæн	_	VERB	_	Prefix=Yes|VerbForm=Inf2	_	_	_	_
 6	и	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	_	PUNCT	_	_	_	_	_	_
-8	нæ	_	INTJ	_	Polarity=Neg	_	_	_	SpaceAfter=No
+8	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 9	?	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 190
@@ -6215,7 +6215,7 @@
 7	зонут	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
 8	æй	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
 9	,	_	PUNCT	_	_	_	_	_	_
-10	нæ	_	INTJ	_	Polarity=Neg	_	_	_	SpaceAfter=No
+10	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 11	?	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 373
@@ -6947,7 +6947,7 @@
 7	,	_	PUNCT	_	_	_	_	_	_
 8	ахæм	_	DET	_	Deixis=Prox|PronType=Dem	_	_	_	SpaceAfter=No
 9	,	_	PUNCT	_	_	_	_	_	_
-10	нæ	_	INTJ	_	Polarity=Neg	_	_	_	SpaceAfter=No
+10	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 11	,	_	PUNCT	_	_	_	_	_	_
 12	тынг	_	ADV	_	_	_	_	_	_
 13	хорз	_	ADJ	_	_	_	_	_	_
@@ -7410,7 +7410,7 @@
 52	Зазхæссæнтæ	_	NOUN	_	Case=Nom|Number=Plur|VerbForm=Inf2	_	_	_	_
 53	вæййы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 54	,	_	PUNCT	_	_	_	_	_	_
-55	нæ	_	INTJ	_	Polarity=Neg	_	_	_	SpaceAfter=No
+55	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 56	?	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 439
