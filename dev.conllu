@@ -643,7 +643,7 @@
 # text = Дзуттаг – еврей.
 1	Дзуттаг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	–	_	PUNCT	_	_	_	_	_	_
-3	еврей	_	PART	_	_	_	_	_	SpaceAfter=No
+3	еврей	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 4	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 41
@@ -2053,7 +2053,7 @@
 
 # sent_id = 121
 # text = Ну, высокое дерево, æмæ… æмæ-иу гъе уыцы бæласмæ алы райсом, хъуг-иу чи ‘рдыгъта-иу йæ хъуг, гъе уый-иу агуывзæйы дзаг йед скъæфта уыцы бæласмæ, æхсыр калдтой йедыл…
-1	Ну	_	PART	_	_	_	_	_	SpaceAfter=No
+1	Ну	_	INTJ	_	_	_	_	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	_	_	_	_
 3	высокое	_	X	_	_	_	_	_	_
 4	дерево	_	X	_	_	_	_	_	SpaceAfter=No
@@ -3947,7 +3947,7 @@
 
 # sent_id = 238
 # text = Ау, хъуамæ куыд нæ йæ зонон, ам куы райгуырдтæн, уæд?
-1	Ау	_	PART	_	_	_	_	_	SpaceAfter=No
+1	Ау	_	INTJ	_	_	_	_	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	_	_	_	_
 3	хъуамæ	_	PART	_	_	_	_	_	_
 4	куыд	_	ADV	_	PronType=Int	_	_	_	_
@@ -5834,7 +5834,7 @@
 12	,	_	PUNCT	_	_	_	_	_	_
 13	æмæ	_	CCONJ	_	_	_	_	_	_
 14	уый	_	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-15	вообще	_	PART	_	_	_	_	_	_
+15	вообще	_	ADV	_	_	_	_	_	_
 16	æрбацæугæ	_	NOUN	_	Case=Nom|Prefix=Yes|VerbForm=Conv	_	_	_	_
 17	у	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 18	,	_	PUNCT	_	_	_	_	_	_
@@ -6711,7 +6711,7 @@
 5	,	_	PUNCT	_	_	_	_	_	_
 6	мæхæдæг	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=No
 7	…	_	PUNCT	_	_	_	_	_	_
-8	Нæа	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
+8	Нæа	_	INTJ	_	Polarity=Neg	_	_	_	SpaceAfter=No
 9	,	_	PUNCT	_	_	_	_	_	_
 10	уый	_	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 11	тыххæй	_	ADP	_	_	_	_	_	_
@@ -7345,7 +7345,7 @@
 4	,	_	PUNCT	_	_	_	_	_	_
 5	уæ	_	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
-7	ома	_	PART	_	_	_	_	_	SpaceAfter=No
+7	ома	_	SCONJ	_	_	_	_	_	SpaceAfter=No
 8	,	_	PUNCT	_	_	_	_	_	_
 9	хъарм	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	уын	_	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	_	_	_	_
@@ -7374,7 +7374,7 @@
 16	,	_	PUNCT	_	_	_	_	_	_
 17	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 18	ыл	_	PRON	_	Case=Sup|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-19	агъай	_	PART	_	_	_	_	_	_
+19	агъай	_	ADV	_	_	_	_	_	_
 20	дæр	_	PART	_	_	_	_	_	_
 21	адæм	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 22	фæхъыг	_	NOUN	_	Case=Nom|Number=Sing|Prefix=Yes	_	_	_	_
@@ -7614,7 +7614,7 @@
 11	стæм	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 12	,	_	PUNCT	_	_	_	_	_	_
 13	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-14	вобщем	_	PART	_	_	_	_	_	_
+14	вобщем	_	ADV	_	_	_	_	_	_
 15	афтæ	_	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	SpaceAfter=No
 16	.	_	PUNCT	_	_	_	_	_	_
 
@@ -7982,7 +7982,7 @@
 
 # sent_id = 478
 # text = Агъай дæр, зæгъын æй скæндзыстæм.
-1	Агъай	_	PART	_	_	_	_	_	_
+1	Агъай	_	ADV	_	_	_	_	_	_
 2	дæр	_	PART	_	_	_	_	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	_	_	_	_
 4	зæгъын	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -8307,7 +8307,7 @@
 2	уый	_	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 3	куы	_	PART	_	_	_	_	_	_
 4	радзырдтон	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
-5	ома	_	PART	_	_	_	_	_	SpaceAfter=No
+5	ома	_	SCONJ	_	_	_	_	_	SpaceAfter=No
 6	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 496
