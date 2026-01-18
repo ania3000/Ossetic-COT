@@ -4511,7 +4511,7 @@
 6	уæрагæй	_	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 7	йæ	_	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 8	астæумæты	_	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-9	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+9	уыди	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 10	мит	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 11	.	_	PUNCT	_	_	_	_	_	_
 
@@ -4697,8 +4697,8 @@
 4	!	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 289
-# text = уæд дæр нæ къласы лæппуйы хай фæци.
-1	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
+# text = Уæд дæр нæ къласы лæппуйы хай фæци.
+1	Уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 2	дæр	_	PART	_	_	_	_	_	_
 3	нæ	_	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 4	къласы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -4805,8 +4805,8 @@
 19	рбацæуа	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Prefix=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No
 20	,	_	PUNCT	_	_	_	_	_	_
 21	мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
-22	мах	_	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_
-23	университеты	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+22	мах	_	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+23	университеты	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 24	педфакы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 25	фæстæ	_	ADP	_	_	_	_	_	SpaceAfter=No
 26	,	_	PUNCT	_	_	_	_	_	_
@@ -4820,7 +4820,7 @@
 34	уæртæ	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 35	цыма	_	SCONJ	_	_	_	_	_	_
 36	мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
-37	æнæзонгæ	_	ADJ	_	VerbForm=Conv	_	_	_	_
+37	æнæзонгæ	_	ADJ	_	Polarity=Neg|VerbForm=Conv	_	_	_	_
 38	адæмы	_	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 39	астæумæ	_	NOUN	_	Case=All|Number=Sing	_	_	_	_
 40	æрбахаудта	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
