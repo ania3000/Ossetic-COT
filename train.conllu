@@ -31679,7 +31679,7 @@
 11	,	_	PUNCT	_	_	_	_	_	_
 12	фæлæ	_	CCONJ	_	_	_	_	_	_
 13	мын	_	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	_
-14	æргомæггаг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+14	æргомæггаг	_	ADJ	_	Prefix=Yes|VerbForm=Dest	_	_	_	_
 15	æхца	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	сæвæрдта	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 17	,	_	PUNCT	_	_	_	_	_	_
@@ -31788,7 +31788,7 @@
 14	дæр	_	PART	_	_	_	_	_	_
 15	æвзаг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	афтæ	_	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
-17	иртæстгонд	_	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+17	иртæстгонд	_	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 18	нæу	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 19	,	_	PUNCT	_	_	_	_	_	_
 20	æмæ	_	CCONJ	_	_	_	_	_	_
@@ -31800,7 +31800,7 @@
 26	æрæвæрæм	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Prefix=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 27	,	_	PUNCT	_	_	_	_	_	_
 28	нæу	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	_
-29	иртæстгонд	_	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
+29	иртæстгонд	_	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
 30	,	_	PUNCT	_	_	_	_	_	_
 31	тынг	_	ADV	_	_	_	_	_	_
 32	бирæ	_	ADJ	_	_	_	_	_	_
@@ -31808,7 +31808,7 @@
 34	дзы	_	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 35	ис	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 36	,	_	PUNCT	_	_	_	_	_	_
-37	иртæстгонд	_	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+37	иртæстгонд	_	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 38	чи	_	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 39	нæу	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 40	.	_	PUNCT	_	_	_	_	_	_
