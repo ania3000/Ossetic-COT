@@ -32065,7 +32065,7 @@
 
 # sent_id = 2007
 # text = Уыдыстæм æртын фондз адæймаджы.
-1	Уыдыстæм	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
+1	Уыдыстæм	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 2	æртын	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
 3	фондз	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
 4	адæймаджы	_	NOUN	_	Case=Num|Number=Sing	_	_	_	SpaceAfter=No
@@ -32327,12 +32327,12 @@
 3	тæккæ	_	PART	_	_	_	_	_	_
 4	сымах	_	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 5	Мæскуыйы	_	NPROP	_	Case=Ine	_	_	_	_
-6	стут	_	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+6	стут	_	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	_	PUNCT	_	_	_	_	_	_
 8	уæ	_	DET	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
 9	райгуырæн	_	NOUN	_	Case=Nom|Number=Sing|Prefix=Yes|VerbForm=Inf2	_	_	_	_
 10	бæстæйæ	_	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
-11	дард	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+11	дард	_	ADV	_	_	_	_	_	SpaceAfter=No
 12	,	_	PUNCT	_	_	_	_	_	_
 13	æмæ	_	CCONJ	_	_	_	_	_	SpaceAfter=No
 14	,	_	PUNCT	_	_	_	_	_	_
@@ -32433,7 +32433,7 @@
 36	дæр	_	PART	_	_	_	_	_	_
 37	æндæрхуызон	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 38	нæ	_	PART	_	Polarity=Neg	_	_	_	_
-39	кæны	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+39	кæны	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 40	,	_	PUNCT	_	_	_	_	_	_
 41	фыцгæ	_	ADV	_	VerbForm=Conv	_	_	_	_
 42	æнтуанæй	_	NOUN	_	Case=Abl|Number=Sing	_	_	_	SpaceAfter=No
@@ -32494,7 +32494,7 @@
 10	,	_	PUNCT	_	_	_	_	_	_
 11	дам	_	PART	_	_	_	_	_	SpaceAfter=No
 12	,	_	PUNCT	_	_	_	_	_	_
-13	уыдзæн	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
+13	уыдзæн	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 14	,	_	PUNCT	_	_	_	_	_	_
 15	мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
 16	йæм	_	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -32662,7 +32662,7 @@
 16	,	_	PUNCT	_	_	_	_	_	_
 17	къуырисæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 18	кæд	_	ADV	_	PronType=Int	_	_	_	_
-19	уыдзæни	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
+19	уыдзæни	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No
 20	,	_	PUNCT	_	_	_	_	_	_
 21	æмæ	_	SCONJ	_	_	_	_	_	_
 22	цæмæй	_	SCONJ	_	_	_	_	_	_
@@ -32705,7 +32705,7 @@
 20	гъе	_	INTJ	_	_	_	_	_	_
 21	уый	_	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 22	æрымысын	_	VERB	_	Prefix=Yes|VerbForm=Inf	_	_	_	_
-23	худинаг	_	NOUN	_	Case=Nom|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
+23	худинаг	_	VERB	_	Tense=Fut|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
 24	,	_	PUNCT	_	_	_	_	_	_
 25	кæнæ	_	CCONJ	_	_	_	_	_	_
 26	та	_	PART	_	_	_	_	_	_
@@ -32837,8 +32837,8 @@
 10	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2051
-# text = æмæ дзы зæронд адæм, уæлæ Зинæ, рухсаг уæд, мæгуыр.
-1	æмæ	_	CCONJ	_	_	_	_	_	_
+# text = Æмæ дзы зæронд адæм, уæлæ Зинæ, рухсаг уæд, мæгуыр.
+1	Æмæ	_	CCONJ	_	_	_	_	_	_
 2	дзы	_	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	зæронд	_	ADJ	_	_	_	_	_	_
 4	адæм	_	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
@@ -32847,7 +32847,7 @@
 7	Зинæ	_	NPROP	_	Case=Nom	_	_	_	SpaceAfter=No
 8	,	_	PUNCT	_	_	_	_	_	_
 9	рухсаг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-10	уæд	_	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
+10	уæд	_	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 11	,	_	PUNCT	_	_	_	_	_	_
 12	мæгуыр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 13	.	_	PUNCT	_	_	_	_	_	_
@@ -33180,7 +33180,7 @@
 # text = Гъе уый уыди мæ учениктæй фыццæгтæй иу, Магкæты Хасан, зæгъгæ.
 1	Гъе	_	INTJ	_	_	_	_	_	_
 2	уый	_	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-3	уыди	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+3	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	мæ	_	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 5	учениктæй	_	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
 6	фыццæгтæй	_	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
@@ -33250,7 +33250,7 @@
 12	,	_	PUNCT	_	_	_	_	_	_
 13	æмæ	_	CCONJ	_	_	_	_	_	_
 14	йæ	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-15	ницы	_	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
+15	ницы	_	DET	_	PronType=Neg	_	_	_	_
 16	хуызы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 17	уагъта	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 18	.	_	PUNCT	_	_	_	_	_	_
@@ -33311,7 +33311,7 @@
 1	–	_	PUNCT	_	_	_	_	_	_
 2	Мады	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	хуызæн	_	ADP	_	_	_	_	_	_
-4	уыди	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+4	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	_	_	_	_
 6	мады	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 7	хуызæн	_	ADP	_	_	_	_	_	SpaceAfter=No
@@ -33328,7 +33328,7 @@
 7	нæ	_	PART	_	Polarity=Neg	_	_	_	_
 8	уадзæм	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	,	_	PUNCT	_	_	_	_	_	_
-10	иунæг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+10	иунæг	_	ADJ	_	_	_	_	_	_
 11	ахæм	_	DET	_	Deixis=Prox|PronType=Dem	_	_	_	SpaceAfter=No
 12	…	_	PUNCT	_	_	_	_	_	_
 
@@ -33364,11 +33364,11 @@
 3	уый	_	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 4	кадджын	_	ADJ	_	_	_	_	_	_
 5	нæ	_	PART	_	Polarity=Neg	_	_	_	_
-6	уыди	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+6	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	_	PUNCT	_	_	_	_	_	_
 8	мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
-9	цал	_	DET	_	PronType=Int	_	_	_	_
-10	къухдарæны	_	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf2	_	_	_	_
+9	цал	_	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
+10	къухдарæны	_	NOUN	_	Case=Num|Number=Sing|VerbForm=Inf2	_	_	_	_
 11	йæм	_	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	æрцыди	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 13	,	_	PUNCT	_	_	_	_	_	_
@@ -33410,7 +33410,7 @@
 # text = Дыууын æхсæзæм августы.
 1	Дыууын	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
 2	æхсæзæм	_	ADJ	_	NumType=Ord	_	_	_	_
-3	августы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	SpaceAfter=No
+3	августы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	SpaceAfter=No
 4	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2087
@@ -33424,8 +33424,8 @@
 7	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2088
-# text = æмæ ма дзы уæд иу-дыууæ минуты, æртæ минуты ма гъе уым бафæстиат стæм æмæ рацыдыстæм уæд
-1	æмæ	_	CCONJ	_	_	_	_	_	_
+# text = Æмæ ма дзы уæд иу-дыууæ минуты, æртæ минуты ма гъе уым бафæстиат стæм æмæ рацыдыстæм уæд
+1	Æмæ	_	CCONJ	_	_	_	_	_	_
 2	ма	_	PART	_	_	_	_	_	_
 3	дзы	_	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
@@ -33457,7 +33457,7 @@
 8	дзуры	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	,	_	PUNCT	_	_	_	_	_	_
 10	хиды	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-11	бын	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+11	бын	_	ADP	_	_	_	_	_	SpaceAfter=No
 12	-	_	PUNCT	_	_	_	_	_	SpaceAfter=No
 13	иу	_	PART	_	_	_	_	_	SpaceAfter=No
 14	,	_	PUNCT	_	_	_	_	_	_
@@ -33583,7 +33583,7 @@
 11	фæбадтæн	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 12	дыгай	_	NUM	_	Case=Nom|NumType=Distr|Number=Sing	_	_	_	_
 13	сахат	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-14	йедтæ	_	NOUN	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
+14	йедтæ	_	PRON	_	Case=Nom|Number=Plur	_	_	_	SpaceAfter=No
 15	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2095
