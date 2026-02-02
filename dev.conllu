@@ -1448,7 +1448,7 @@
 4	алыхуызон	_	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
 5	у	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
-7	кæстæры	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+7	кæстæры	_	NOUN	_	Case=Gen|Degree=Cmp|Number=Sing	_	_	_	_
 8	зонд	_	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 9	дæр	_	PART	_	_	_	_	_	_
 10	æндæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_

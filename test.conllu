@@ -2195,7 +2195,7 @@
 3	хо	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	_	_	_	_
 5	мæ	_	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
-6	кæстæр	_	ADJ	_	_	_	_	_	_
+6	кæстæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 7	хо	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 8	,	_	PUNCT	_	_	_	_	_	_
 9	афтæ	_	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
@@ -4365,7 +4365,7 @@
 
 # sent_id = 267
 # text = Кæстæрты лæг уыйас нæ зоны, фæлæ хистæртæй.
-1	Кæстæрты	_	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
+1	Кæстæрты	_	NOUN	_	Case=Gen|Degree=Cmp|Number=Plur	_	_	_	_
 2	лæг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	уыйас	_	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 4	нæ	_	PART	_	Polarity=Neg	_	_	_	_
@@ -5366,7 +5366,7 @@
 # text = Æмæ Олег кæстæр уыди, Казик… фæлæ сæ мад иу къласмæ радта.
 1	Æмæ	_	CCONJ	_	_	_	_	_	_
 2	Олег	_	NPROP	_	Case=Nom	_	_	_	_
-3	кæстæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	кæстæр	_	NOUN	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	_
 4	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	_	_	_	_
 6	Казик	_	NPROP	_	Case=Nom	_	_	_	SpaceAfter=No
@@ -8184,8 +8184,8 @@
 7	фæисынц	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Prefix=Yes|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 8	,	_	PUNCT	_	_	_	_	_	_
 9	уый	_	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-10	кæстæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-11	вæййы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
+10	кæстæр	_	NOUN	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	_
+11	вæййы	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 12	,	_	PUNCT	_	_	_	_	_	_
 13	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 14	?	_	PUNCT	_	_	_	_	_	_
@@ -8209,7 +8209,7 @@
 
 # sent_id = 500
 # text = Кæстæр фæисы хуыз?
-1	Кæстæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Кæстæр	_	NOUN	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	_
 2	фæисы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Pres|VerbForm=Fin	_	_	_	_
 3	хуыз	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 4	?	_	PUNCT	_	_	_	_	_	_
