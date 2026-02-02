@@ -4718,7 +4718,7 @@
 # sent_id = 302
 # text = Æмæ чындзы куы ацыдтæн, уæд та мæнæ ацы скъолайы кусын райдыдтон.
 1	Æмæ	_	CCONJ	_	_	_	_	_	_
-2	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+2	чындзы	_	NOUN	_	Case=ine|Number=Sing	_	_	_	_
 3	куы	_	ADV	_	PronType=Int	_	_	_	_
 4	ацыдтæн	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	_	_	_	_
@@ -15831,7 +15831,7 @@
 # text = Зоя: Чындзы Æрыдонмæ ацыдтæн Тлаттатæм.
 1	Зоя	_	NPROP	_	Case=Nom	_	_	_	SpaceAfter=No
 2	:	_	PUNCT	_	_	_	_	_	_
-3	Чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+3	Чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 4	Æрыдонмæ	_	NPROP	_	Case=All	_	_	_	_
 5	ацыдтæн	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 6	Тлаттатæм	_	NPROP	_	Case=All|Number=Plur	_	_	_	SpaceAfter=No
@@ -17174,7 +17174,7 @@
 # text = Цардтæн… чындзы æрцыдтæн Зджыдмæ, Æгъуызартæм.
 1	Цардтæн	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 2	…	_	PUNCT	_	_	_	_	_	_
-3	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+3	чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 4	æрцыдтæн	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 5	Зджыдмæ	_	NPROP	_	Case=All	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
@@ -17527,7 +17527,7 @@
 2	Мæ	_	CCONJ	_	_	_	_	_	_
 3	фыццаг	_	ADJ	_	NumType=Ord	_	_	_	_
 4	хатт	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-5	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+5	чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 6	ацыди	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 7	æртындæс	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
 8	азæй	_	NOUN	_	Case=Abl|Number=Sing	_	_	_	SpaceAfter=No
@@ -19947,13 +19947,13 @@
 # text = Стæй уæд чындзы куы ацæуа чызг, чызг чындзы куы ацæуа, цалынмæ хæдзары хистæртæ иууылдæр схуыссой, уæдмæ хъуамæ чындз ма схуысса.
 1	Стæй	_	ADV	_	_	_	_	_	_
 2	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-3	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+3	чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 4	куы	_	ADV	_	PronType=Int	_	_	_	_
 5	ацæуа	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Prefix=Yes|VerbForm=Fin	_	_	_	_
 6	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 7	,	_	PUNCT	_	_	_	_	_	_
 8	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-9	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+9	чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 10	куы	_	ADV	_	PronType=Int	_	_	_	_
 11	ацæуа	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Prefix=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No
 12	,	_	PUNCT	_	_	_	_	_	_
@@ -45015,8 +45015,8 @@
 3	æмæ	_	CCONJ	_	_	_	_	_	_
 4	Цæгæратæм	_	NPROP	_	Case=All|Number=Plur	_	_	_	_
 5	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-6	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-7	цыд	_	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
+6	чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+7	цыд	_	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
 8	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2798
@@ -46837,7 +46837,7 @@
 # sent_id = 2922
 # text = Ардæм чындзы æрцыдысты, ам кусын райдыдтой.
 1	Ардæм	_	PRON	_	Case=Dir|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
-2	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+2	чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 3	æрцыдысты	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	_	_	_	_
 5	ам	_	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
@@ -54486,7 +54486,7 @@
 1	Дзæбæх	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	уже	_	ADV	_	_	_	_	_	_
 3	сæ	_	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-4	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+4	чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 5	цæуынæй	_	NOUN	_	Case=Abl|Number=Sing|VerbForm=Inf	_	_	_	_
 6	дæр	_	PART	_	_	_	_	_	_
 7	аивгъуыдтой	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -60141,7 +60141,7 @@
 
 # sent_id = 3707
 # text = Чындзы куы цыдтæн, уæд мæм мæ къласæгтæ, тынг, дам, нæ, Светæ, фæнды, фенын уыцы лæппуйы, кæй тыххæй-иу куыстам сабæтты.
-1	Чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+1	Чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 2	куы	_	ADV	_	PronType=Int	_	_	_	_
 3	цыдтæн	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	_	_	_	_
