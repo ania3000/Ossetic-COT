@@ -435,7 +435,7 @@
 
 # sent_id = 22
 # text = Хистæртимæ хъæуы.
-1	Хистæртимæ	_	NOUN	_	Case=Com|Number=Plur	_	_	_	_
+1	Хистæртимæ	_	NOUN	_	Case=Com|Degree=Cmp|Number=Plur	_	_	_	_
 2	хъæуы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 3	.	_	PUNCT	_	_	_	_	_	_
 
@@ -1537,7 +1537,7 @@
 34	хай	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 35	зоны	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 36	,	_	PUNCT	_	_	_	_	_	_
-37	хистæртæй	_	NOUN	_	Case=Abl|Number=Plur	_	_	_	SpaceAfter=No
+37	хистæртæй	_	NOUN	_	Case=Abl|Degree=Cmp|Number=Plur	_	_	_	SpaceAfter=No
 38	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 98
@@ -4372,7 +4372,7 @@
 5	зоны	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
 7	фæлæ	_	CCONJ	_	_	_	_	_	_
-8	хистæртæй	_	NOUN	_	Case=Abl|Number=Plur	_	_	_	SpaceAfter=No
+8	хистæртæй	_	NOUN	_	Case=Abl|Degree=Cmp|Number=Plur	_	_	_	SpaceAfter=No
 9	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 268
@@ -6747,7 +6747,7 @@
 # text = Æмæ уæд хистæр ыскуывта: «Хуыцæутты Хуыцау!
 1	Æмæ	_	CCONJ	_	_	_	_	_	_
 2	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-3	хистæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	хистæр	_	NOUN	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	_
 4	ыскуывта	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 5	:	_	PUNCT	_	_	_	_	_	_
 6	«	_	PUNCT	_	_	_	_	_	SpaceAfter=No
@@ -7927,7 +7927,7 @@
 1	Фыд	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	куыста	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 3	,	_	PUNCT	_	_	_	_	_	_
-4	хистæр	_	ADJ	_	_	_	_	_	_
+4	хистæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 5	æфсымæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	куыста	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -8757,7 +8757,7 @@
 22	мыггагæй	_	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 23	чи	_	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 24	вæййы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-25	хистæртæй	_	NOUN	_	Case=Abl|Number=Plur	_	_	_	SpaceAfter=No
+25	хистæртæй	_	NOUN	_	Case=Abl|Degree=Cmp|Number=Plur	_	_	_	SpaceAfter=No
 26	,	_	PUNCT	_	_	_	_	_	_
 27	уыдонæн	_	PRON	_	Case=Dat|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	SpaceAfter=No
 28	.	_	PUNCT	_	_	_	_	_	_

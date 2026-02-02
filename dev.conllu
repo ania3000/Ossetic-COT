@@ -205,7 +205,7 @@
 2	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 3	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	_	_	_	_
-5	хистæр	_	ADJ	_	_	_	_	_	_
+5	хистæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 6	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	фæци	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 8	скъола	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -563,7 +563,7 @@
 # text = Чызг, хистæр чызг ахуыргæнæгæй кусы Джызæлы средни скъола второй скъолайы.
 1	Чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	_	_	_	_
-3	хистæр	_	ADJ	_	_	_	_	_	_
+3	хистæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 4	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	ахуыргæнæгæй	_	NOUN	_	Case=Abl|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 6	кусы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -1060,7 +1060,7 @@
 10	йер	_	ADV	_	PronType=Dem	_	_	_	_
 11	хæдзары	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 12	бинонты	_	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-13	хистæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
+13	хистæр	_	NOUN	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	SpaceAfter=No
 14	,	_	PUNCT	_	_	_	_	_	_
 15	æмæ	_	CCONJ	_	_	_	_	_	_
 16	мæ	_	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
@@ -1454,7 +1454,7 @@
 10	æндæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	у	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 12	,	_	PUNCT	_	_	_	_	_	_
-13	хистæры	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+13	хистæры	_	NOUN	_	Case=Gen|Degree=Cmp|Number=Sing	_	_	_	_
 14	зонд	_	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 15	дæр	_	PART	_	_	_	_	_	_
 16	æндæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -1464,7 +1464,7 @@
 20	фылдæр	_	ADV	_	Degree=Cmp	_	_	_	_
 21	хъусын	_	VERB	_	VerbForm=Inf	_	_	_	_
 22	хъæуы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-23	хистæры	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+23	хистæры	_	NOUN	_	Case=Gen|Degree=Cmp|Number=Sing	_	_	_	_
 24	зондмæ	_	NOUN	_	Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No
 25	,	_	PUNCT	_	_	_	_	_	_
 26	кæд	_	ADV	_	PronType=Int	_	_	_	_
@@ -4134,7 +4134,7 @@
 2	Алла	_	NPROP	_	Case=Nom	_	_	_	SpaceAfter=No
 3	:	_	PUNCT	_	_	_	_	_	_
 4	Йер	_	ADV	_	PronType=Dem	_	_	_	_
-5	хистæр	_	ADJ	_	_	_	_	_	_
+5	хистæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 6	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	мын	_	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No
 8	,	_	PUNCT	_	_	_	_	_	_
@@ -6385,7 +6385,7 @@
 16	фæлæ	_	CCONJ	_	_	_	_	_	_
 17	ныр	_	ADV	_	PronType=Dem	_	_	_	_
 18	уже	_	ADV	_	_	_	_	_	_
-19	хистæр	_	ADJ	_	_	_	_	_	_
+19	хистæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 20	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 21	кусын	_	VERB	_	VerbForm=Inf	_	_	_	_
 22	байдыдта	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -6903,7 +6903,7 @@
 15	йæхæдæг	_	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 16	фараст	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
 17	сывæллоны	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-18	хистæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+18	хистæр	_	NOUN	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	_
 19	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 20	,	_	PUNCT	_	_	_	_	_	_
 21	йæхицæн	_	PRON	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
@@ -7596,7 +7596,7 @@
 
 # sent_id = 451
 # text = Хистæр уыди мæнæй.
-1	Хистæр	_	ADJ	_	_	_	_	_	_
+1	Хистæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 2	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	мæнæй	_	PRON	_	Case=Abl|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No
 4	.	_	PUNCT	_	_	_	_	_	_
@@ -8954,7 +8954,7 @@
 9	кодта	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	,	_	PUNCT	_	_	_	_	_	_
 11	сæ	_	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-12	хистæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+12	хистæр	_	NOUN	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	_
 13	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 14	,	_	PUNCT	_	_	_	_	_	_
 15	Цæгæратæм	_	NPROP	_	Case=All|Number=Plur	_	_	_	SpaceAfter=No
