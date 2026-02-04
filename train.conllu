@@ -49969,7 +49969,7 @@
 # text = Æмæ йæ кæстæр чызг гуыбыны куы уыди, уæд ын йæ лæджы хæстмæ ахуыдтой.
 1	Æмæ	_	CCONJ	_	_	_	_	_	_
 2	йæ	_	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-3	кæстæр	_	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	_
+3	кæстæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 4	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	гуыбыны	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 6	куы	_	ADV	_	PronType=Int	_	_	_	_
