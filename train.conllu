@@ -4718,7 +4718,7 @@
 # sent_id = 302
 # text = Æмæ чындзы куы ацыдтæн, уæд та мæнæ ацы скъолайы кусын райдыдтон.
 1	Æмæ	_	CCONJ	_	_	_	_	_	_
-2	чындзы	_	NOUN	_	Case=ine|Number=Sing	_	_	_	_
+2	чындзы	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 3	куы	_	ADV	_	PronType=Int	_	_	_	_
 4	ацыдтæн	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	_	_	_	_
