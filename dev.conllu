@@ -8300,7 +8300,7 @@
 18	алы	_	DET	_	PronType=Tot	_	_	_	_
 19	хъæуæн	_	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 20	дæр	_	PART	_	_	_	_	_	_
-21	хицæн	_	PRON	_	Case=Dat|Number=Sing|Reflex=Yes	_	_	_	SpaceAfter=No
+21	хицæн	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 22	…	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 495
