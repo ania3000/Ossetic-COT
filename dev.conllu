@@ -4326,7 +4326,7 @@
 24	,	_	PUNCT	_	_	_	_	_	_
 25	мæ	_	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 26	мæрдтæм	_	NOUN	_	Case=All|Number=Plur	_	_	_	_
-27	æнæдзургæйæ	_	NOUN	_	Case=Abl|Polarity=Neg|VerbForm=Conv	_	_	_	_
+27	æнæдзургæйæ	_	NOUN	_	Case=Abl|Prenoun=Yes|VerbForm=Conv	_	_	_	_
 28	нæ	_	PART	_	Polarity=Neg	_	_	_	_
 29	ацыди	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 30	,	_	PUNCT	_	_	_	_	_	_
@@ -4820,7 +4820,7 @@
 34	уæртæ	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 35	цыма	_	SCONJ	_	_	_	_	_	_
 36	мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
-37	æнæзонгæ	_	ADJ	_	Polarity=Neg|VerbForm=Conv	_	_	_	_
+37	æнæзонгæ	_	ADJ	_	Prenoun=Yes|VerbForm=Conv	_	_	_	_
 38	адæмы	_	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 39	астæумæ	_	NOUN	_	Case=All|Number=Sing	_	_	_	_
 40	æрбахаудта	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Prefix=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
