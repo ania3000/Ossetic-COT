@@ -2407,7 +2407,7 @@
 12	рафæлдахиккам	_	VERB	_	Mood=Opt|Number=Plur|Person=1|Prefix=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No
 13	,	_	PUNCT	_	_	_	_	_	_
 14	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-15	æнæмæнгæй	_	NOUN	_	Case=Abl|Number=Sing|Prefix=Yes	_	_	_	_
+15	æнæмæнгæй	_	NOUN	_	Case=Abl|Number=Sing|Prenoun=Yes	_	_	_	_
 16	Дзуццатимæ	_	NPROP	_	Case=Com|Number=Plur	_	_	_	_
 17	бавæййаг	_	VERB	_	Prefix=Yes|Tense=Pres|VerbForm=Part2|Voice=Act	_	_	_	_
 18	дæ	_	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
