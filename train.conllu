@@ -50469,7 +50469,7 @@
 3	Таймуразы	_	NPROP	_	Case=Gen	_	_	_	_
 4	фыртæн	_	NOUN	_	Case=Dat|Number=Sing	_	_	_	SpaceAfter=No
 5	…	_	PUNCT	_	_	_	_	_	_
-6	æгад	_	ADV	_	_	_	_	_	_
+6	æгад	_	NOUN	_	_	_	_	_	_
 7	æм	_	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	æркасти	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Preverb=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	.	_	PUNCT	_	_	_	_	_	_
@@ -59182,7 +59182,7 @@
 15	,	_	PUNCT	_	_	_	_	_	_
 16	гъе	_	INTJ	_	_	_	_	_	_
 17	æмæ	_	CCONJ	_	_	_	_	_	_
-18	уæ	_	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	_	_	_	_
+18	уæ	_	PRON	_	Case=Abl|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 19	йæ	_	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 20	хорзæх	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 21	уæд	_	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
