@@ -50469,7 +50469,7 @@
 3	Таймуразы	_	NPROP	_	Case=Gen	_	_	_	_
 4	фыртæн	_	NOUN	_	Case=Dat|Number=Sing	_	_	_	SpaceAfter=No
 5	…	_	PUNCT	_	_	_	_	_	_
-6	æгад	_	NOUN	_	_	_	_	_	_
+6	æгад	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	æм	_	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	æркасти	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Preverb=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 9	.	_	PUNCT	_	_	_	_	_	_
@@ -69829,7 +69829,7 @@
 # text = Æмæ уже баййафынæй куы тарстысты, уæд уыцы хæцæнгарзы, уыцы лæппуты хъæр ус куы фехъуыста, ома, фæстейы æрбахæццæ кæнынц, уæд дын скасти.
 1	Æмæ	_	CCONJ	_	_	_	_	_	_
 2	уже	_	ADV	_	_	_	_	_	_
-3	баййафынæй	_	NOUN	_	Case=Abl|Preverb=Yes|VerbForm=Inf	_	_	_	_
+3	баййафынæй	_	NOUN	_	Case=Abl|Number=Sing|Preverb=Yes|VerbForm=Inf	_	_	_	_
 4	куы	_	ADV	_	PronType=Int	_	_	_	_
 5	тарстысты	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
