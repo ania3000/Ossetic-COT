@@ -7016,7 +7016,7 @@
 7	,	_	PUNCT	_	_	_	_	_	_
 8	дам	_	PART	_	_	_	_	_	SpaceAfter=No
 9	,	_	PUNCT	_	_	_	_	_	_
-10	йæхи	_	PRON	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+10	йæхи	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 11	афтæ	_	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
 12	кæм	_	ADV	_	PronType=Int	_	_	_	_
 13	дары	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -24080,7 +24080,7 @@
 # sent_id = 1523
 # text = -Уæхи традицитæм?
 1	-	_	PUNCT	_	_	_	_	_	SpaceAfter=No
-2	Уæхи	_	PRON	_	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+2	Уæхи	_	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	_	_	_	_
 3	традицитæм	_	NOUN	_	Case=All|Number=Plur	_	_	_	SpaceAfter=No
 4	?	_	PUNCT	_	_	_	_	_	_
 
@@ -24199,7 +24199,7 @@
 1	Æмæ	_	CCONJ	_	_	_	_	_	_
 2	æртæ	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
 3	дуары	_	NOUN	_	Case=Num|Number=Sing	_	_	_	_
-4	нæхи	_	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+4	нæхи	_	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
 5	фарсыл	_	NOUN	_	Case=Sup|Number=Sing	_	_	_	_
 6	ныммарзтон	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Preverb=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 7	,	_	PUNCT	_	_	_	_	_	_
@@ -25398,9 +25398,9 @@
 # text = Дон… мæхæдæг кæцырдыгæй уыдтæн, уый дæр нæ зыдтон, хъæуæн кæцырдыгæй уыдтæн мæхæдæг, æхсæвыгон мæ бахастой, уый дæр нæ зыдтон.
 1	Дон	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=No
 2	…	_	PUNCT	_	_	_	_	_	_
-3	мæхæдæг	_	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+3	мæхæдæг	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
 4	кæцырдыгæй	_	PRON	_	Case=Rcs|Number=Sing|PronType=Int	_	_	_	_
-5	уыдтæн	_	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
+5	уыдтæн	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
 7	уый	_	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 8	дæр	_	PART	_	_	_	_	_	_
@@ -28513,7 +28513,7 @@
 15	,	_	PUNCT	_	_	_	_	_	_
 16	зæгъын	_	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 17	,	_	PUNCT	_	_	_	_	_	_
-18	уæхи	_	PRON	_	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+18	уæхи	_	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	_	_	_	_
 19	ма	_	PART	_	_	_	_	_	_
 20	сахуыр	_	NOUN	_	Case=Nom|Number=Sing|Preverb=Yes	_	_	_	_
 21	кæнут	_	AUX	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	_
@@ -30340,7 +30340,7 @@
 11	,	_	PUNCT	_	_	_	_	_	_
 12	æмæ	_	CCONJ	_	_	_	_	_	_
 13	йæ	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-14	йæхи	_	PRON	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+14	йæхи	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 15	лæгæн	_	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 16	ратт	_	VERB	_	Mood=Imp|Number=Sing|Person=2|Preverb=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No
 17	.	_	PUNCT	_	_	_	_	_	_
@@ -33499,7 +33499,7 @@
 15	гæсгæ	_	ADP	_	_	_	_	_	SpaceAfter=No
 16	,	_	PUNCT	_	_	_	_	_	_
 17	афтæ	_	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
-18	нæхи	_	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+18	нæхи	_	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
 19	традицитæм	_	NOUN	_	Case=All|Number=Plur	_	_	_	_
 20	гæсгæ	_	ADP	_	_	_	_	_	SpaceAfter=No
 21	.	_	PUNCT	_	_	_	_	_	_
@@ -34767,7 +34767,7 @@
 # sent_id = 2159
 # text = Алчи йæхи хæдзары?
 1	Алчи	_	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
-2	йæхи	_	PRON	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+2	йæхи	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 3	хæдзары	_	NOUN	_	Case=Ine|Number=Sing	_	_	_	SpaceAfter=No
 4	?	_	PUNCT	_	_	_	_	_	_
 
@@ -42369,7 +42369,7 @@
 11	дæр	_	PART	_	_	_	_	_	_
 12	гъе	_	INTJ	_	_	_	_	_	_
 13	уымæй	_	PRON	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-14	зындгонд	_	NOUN	_	Case=Nom|Number=Sing|tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+14	зындгонд	_	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 15	уыдысты	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 16	æмæ	_	CCONJ	_	_	_	_	_	_
 17	хистæр	_	ADJ	_	Degree=Cmp	_	_	_	_
@@ -43294,7 +43294,7 @@
 5	ныххастам	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Preverb=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
 7	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-8	сæхи	_	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+8	сæхи	_	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 9	æлæмæй	_	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 10	уыди	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 11	рæсугъддæр	_	ADJ	_	Degree=Cmp	_	_	_	SpaceAfter=No
@@ -54810,7 +54810,7 @@
 5	,	_	PUNCT	_	_	_	_	_	_
 6	æмæ	_	CCONJ	_	_	_	_	_	_
 7	мæ	_	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	_	_	_	_
-8	мæхи	_	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+8	мæхи	_	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	_
 9	равдисын	_	VERB	_	Preverb=Yes|VerbForm=Inf	_	_	_	_
 10	дæр	_	PART	_	_	_	_	_	_
 11	кæмдæр	_	ADV	_	PronType=Ind	_	_	_	_
@@ -62070,7 +62070,7 @@
 5	,	_	PUNCT	_	_	_	_	_	_
 6	уый	_	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 7	йæ	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-8	йæхицæн	_	PRON	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_
+8	йæхицæн	_	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 9	уадзæд	_	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	_	_	_	SpaceAfter=No
 10	,	_	PUNCT	_	_	_	_	_	_
 11	æмæ	_	CCONJ	_	_	_	_	_	_
