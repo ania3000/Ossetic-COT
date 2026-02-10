@@ -36626,7 +36626,7 @@
 # text = Хъаст нæ-иу ма ахæссут.
 1	Хъаст	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
-3   -   _   PUNCT   _   _   _   _   _   SpaceAfter=No
+3	-	_	PUNCT	_	_	_	_	_	SpaceAfter=No
 4	иу	_	PART	_	_	_	_	_	_
 5	ма	_	PART	_	Polarity=Neg	_	_	_	_
 6	ахæссут	_	VERB	_	Mood=Imp|Number=Plur|Person=2|Preverb=Yes|VerbForm=Fin	_	_	_	SpaceAfter=No
