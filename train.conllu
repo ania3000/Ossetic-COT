@@ -17059,7 +17059,7 @@
 4	чындзытæ	_	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 5	æрхастой	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Preverb=Yes|Tense=Past|VerbForm=Fin	_	_	_	_
 6	дыууæ	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
-7	чындзы	_	NOUN	_	Case=Num|Number=Sing	_	_	_	_
+7	чындзы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 8	чызг	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	дæр	_	PART	_	_	_	_	_	_
 10	æрвыстам	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -21934,7 +21934,7 @@
 12	æмæ	_	CCONJ	_	_	_	_	_	_
 13	уæртæ	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 14	æртæ	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
-15	къухдарæны	_	NOUN	_	Case=Num|Number=Sing|VerbForm=Inf2	_	_	_	_
+15	къухдарæны	_	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf2	_	_	_	_
 16	тыххæй	_	ADP	_	_	_	_	_	_
 17	æрхауди	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Preverb=Yes|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 18	.	_	PUNCT	_	_	_	_	_	_
@@ -21999,7 +21999,7 @@
 9	сæ	_	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 10	къухты	_	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 11	æртæ	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
-12	къоппы	_	NOUN	_	Case=Num|Number=Sing	_	_	_	_
+12	къоппы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	йедтæмæ	_	ADP	_	_	_	_	_	_
 14	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 15	.	_	PUNCT	_	_	_	_	_	_
@@ -30349,7 +30349,7 @@
 # text = Уыцы дыууæ лæппуйы схъомыл кодта, йæ лæг хæсты баззади, æмæ сæ уæд дæр схъомыл кодта, æвæргæ дæр æй уыдон бакодтой.
 1	Уыцы	_	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
 2	дыууæ	_	NUM	_	Case=Nom|NumType=Card	_	_	_	_
-3	лæппуйы	_	NOUN	_	Case=Num|Number=Sing	_	_	_	_
+3	лæппуйы	_	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	схъомыл	_	NOUN	_	Case=Nom|Number=Sing|Preverb=Yes	_	_	_	_
 5	кодта	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	_	_	_	_
