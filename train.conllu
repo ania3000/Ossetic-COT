@@ -2045,8 +2045,8 @@
 8	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 133
-# text = нæ йæ хъæр кодта, фæлæ иронау дзырдта.
-1	нæ	_	PART	_	Polarity=Neg	_	_	_	_
+# text = Нæ йæ хъæр кодта, фæлæ иронау дзырдта.
+1	Нæ	_	PART	_	Polarity=Neg	_	_	_	_
 2	йæ	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	хъæр	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	кодта	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
@@ -17988,8 +17988,8 @@
 17	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 1168
-# text = æмæ-иу уынаффæ рахастой иууылдæр иумæ, алы мыггагæй дæр дзы уыди лæг, кæнæ хистæр, кæнæ кæстæр.
-1	æмæ	_	CCONJ	_	_	_	_	_	SpaceAfter=No
+# text = Æмæ-иу уынаффæ рахастой иууылдæр иумæ, алы мыггагæй дæр дзы уыди лæг, кæнæ хистæр, кæнæ кæстæр.
+1	Æмæ	_	CCONJ	_	_	_	_	_	SpaceAfter=No
 2	-	_	PUNCT	_	_	_	_	_	SpaceAfter=No
 3	иу	_	PART	_	_	_	_	_	_
 4	уынаффæ	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -18491,8 +18491,8 @@
 5	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 1196
-# text = куы йæ зыдтам мæнæ уæд хуыцаубоны уыдзæни концерт, фæстаг номыр мах у.
-1	куы	_	ADV	_	PronType=Int	_	_	_	_
+# text = Куы йæ зыдтам мæнæ уæд хуыцаубоны уыдзæни концерт, фæстаг номыр мах у.
+1	Куы	_	ADV	_	PronType=Int	_	_	_	_
 2	йæ	_	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	зыдтам	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 4	мæнæ	_	ADV	_	PronType=Dem	_	_	_	_
@@ -32907,8 +32907,8 @@
 7	?	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2056
-# text = уæд дæр махæн Ленинград у Санкт-Петербург цæмæдæр гæсгæ.
-1	уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
+# text = Уæд дæр махæн Ленинград у Санкт-Петербург цæмæдæр гæсгæ.
+1	Уæд	_	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 2	дæр	_	PART	_	_	_	_	_	_
 3	махæн	_	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 4	Ленинград	_	NPROP	_	Case=Nom	_	_	_	_
@@ -44262,9 +44262,9 @@
 4	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2751
-# text =  – æмæ йæм кæсы.
+# text =  – Æмæ йæм кæсы.
 1	–	_	PUNCT	_	_	_	_	_	_
-2	æмæ	_	CCONJ	_	_	_	_	_	_
+2	Æмæ	_	CCONJ	_	_	_	_	_	_
 3	йæм	_	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	кæсы	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
 5	.	_	PUNCT	_	_	_	_	_	_
@@ -44503,7 +44503,7 @@
 
 # sent_id = 2764
 # text = Нæ, дзурæн, дам, сæм уыди!
-1	нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
+1	Нæ	_	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	_	_	_	_
 3	дзурæн	_	VERB	_	VerbForm=Inf2	_	_	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	_	_	_	_
@@ -45091,8 +45091,8 @@
 6	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2804
-# text = æмæ-иу чегърейæ бакодтой æлхæнгæ дæр – уæртæ ма мæ уыцы чызгимæ акафын кæ, зæгъгæ.
-1	æмæ	_	CCONJ	_	_	_	_	_	SpaceAfter=No
+# text = Æмæ-иу чегърейæ бакодтой æлхæнгæ дæр – уæртæ ма мæ уыцы чызгимæ акафын кæ, зæгъгæ.
+1	Æмæ	_	CCONJ	_	_	_	_	_	SpaceAfter=No
 2	-	_	PUNCT	_	_	_	_	_	SpaceAfter=No
 3	иу	_	PART	_	_	_	_	_	_
 4	чегърейæ	_	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
@@ -56705,9 +56705,9 @@
 13	.	_	PUNCT	_	_	_	_	_	_
 
 # sent_id = 3500
-# text = -уымæй дзы хуыздæр ныхас нæй!
+# text = -Уымæй дзы хуыздæр ныхас нæй!
 1	-	_	PUNCT	_	_	_	_	_	SpaceAfter=No
-2	уымæй	_	PRON	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
+2	Уымæй	_	PRON	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 3	дзы	_	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	хуыздæр	_	ADJ	_	Degree=Cmp	_	_	_	_
 5	ныхас	_	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
