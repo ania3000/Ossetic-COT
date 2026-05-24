@@ -38,5 +38,5 @@ NOUN,Case=Gen\|Number=Sing | 590 (1.01\%) | 95 (1.27\%) | 66 (0.91\%) |
 # References
 
 # Contact
-The dataset was prepared by Anna Shatskikh (anapriselec@gmail.com). All questions and comments are welcome.
+The dataset was prepared by Anna Shatskikh (anapriselec@gmail.com) and Alexey Sorokin. All questions and comments are welcome.
 # Changelog
