@@ -36,7 +36,15 @@ NUM,Case=Nom\|NumType=Card | 610 (1.05\%) | 63 (0.84\%) | 81 (1.12\%) |
 NOUN,Case=Gen\|Number=Sing | 590 (1.01\%) | 95 (1.27\%) | 66 (0.91\%) |
 
 # References
-
+```
+@inproceedings{shatskikh2026ossetic,
+  title={Ossetic-COT: Designing a morphologically annotated corpus and morphological analyzer for Ossetic},
+  author={Shatskikh, Anna and Sorokin, Alexey},
+  booktitle={Computational Linguistics and Intellectual Technologies. Proceedings of the International Conference “Dialogue 2026”},
+  volume={2026},
+  year={2026}
+}
+```
 # Contact
 The dataset was prepared by Anna Shatskikh (anapriselec@gmail.com) and Alexey Sorokin. All questions and comments are welcome.
 # Changelog
