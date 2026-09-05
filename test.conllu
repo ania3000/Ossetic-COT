@@ -2796,7 +2796,7 @@
 13	хæдзар	хæдзар	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	федтой	фенын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
-16	æмæ	æмæ	SCONJ	_	_	_	_	_	_
+16	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 146
@@ -2974,7 +2974,7 @@
 4	афтæ	афтæ	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
 5	уыдтæн	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
-7	æмæ	æмæ	SCONJ	_	_	_	_	_	_
+7	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 8	мæ	мæ	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 9	бон	бон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10-11	сыстын	_	_	_	_	_	_	_	_
@@ -6316,7 +6316,7 @@
 4	адæмы	адæм	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 5	хатт	хатт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	стæм	уæвын	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
-7	æмæ	æмæ	SCONJ	_	_	_	_	_	_
+7	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 8	тæргæ	тæргæ	NOUN	_	Case=Nom|Number=Sing|VerbForm=Conv	_	_	_	_
 9	никæйы	ничи	PRON	_	Case=Gen|Number=Sing|PronType=Neg	_	_	_	_
 10	кæнæм	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -8707,7 +8707,7 @@
 3	ын	йæ	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	уыдис	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
-6	æмæ	æмæ	SCONJ	_	_	_	_	_	_
+6	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 7	сæ	сæ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 8	иууылдæр	иууылдæр	PRON	_	Case=Nom|Number=Sing|PronType=Tot	_	_	_	_
 9	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_

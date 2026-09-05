@@ -41,7 +41,7 @@
 4	тыххæй	тыххæй	ADP	_	_	_	_	_	_
 5	у	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
-7	æмæ	æмæ	SCONJ	_	_	_	_	_	_
+7	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
@@ -2253,7 +2253,7 @@
 14	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 15	кæна	кæнын	AUX	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
 16	,	,	PUNCT	_	_	_	_	_	_
-17	æмæ	æмæ	SCONJ	_	_	_	_	_	_
+17	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 18	мын	мæ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 19	раст	раст	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 20	куы	куы	PART	_	_	_	_	_	_
@@ -6519,7 +6519,7 @@
 # genre_id = expedition
 # text = Зазхæссæнтæ уымæн хуыйнынц, æмæ-иу заз дæр сарæзтой, адджинæгтæй сфæлыстой-иу йæ.
 1	Зазхæссæнтæ	зазхæссæн	NOUN	_	Case=Nom|Number=Plur|VerbForm=Inf2	_	_	_	_
-2	уымæн	уымæн	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
+2	уымæн	уый	PRON	_	Case=Dat|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 3	хуыйнынц	хуыйнын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
 5	æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -9784,7 +9784,7 @@
 # text = Уыди афтæ æмæ йер-иу изæрыгæтты… мæнæ уыцы чызг кæм царди, уым-иу зæронд хид уыдис.
 1	Уыди	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 2	афтæ	афтæ	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
-3	æмæ	æмæ	SCONJ	_	_	_	_	_	_
+3	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 4	йер	йер	ADV	_	PronType=Dem	_	_	_	_
 5	-	-	PUNCT	_	_	_	_	_	_
 6	иу	иу	PART	_	_	_	_	_	_
