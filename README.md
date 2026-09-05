@@ -5,7 +5,7 @@ The Corpus of Oral Texts is manually annotated for parts-of-speech and morpholog
 
 The present dataset contains 5454 sentences total. Training set contains 80% (4364) of the sentences. Validation and test sets contain 10% (545) of the sentences each.
 
-# Statistics
+# Statistics (version 2)
 ## Subgenre distribution
 | Tag | Train | Development | Test |
 | :--- | :---: | :---: | :---: |
