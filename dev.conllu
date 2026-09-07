@@ -5178,7 +5178,7 @@
 19	ды	ды	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 20	сывæллонæн	сывæллон	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 21	хай	хай	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-22	цæмæн	цæмæн	ADV	_	PronType=Int	_	_	_	_
+22	цæмæн	цы	PRON	_	Case=Dat|Number=Sing|PronType=Int	_	_	_	_
 23	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 24	кæныс	кæнын	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
 25	?	?	PUNCT	_	_	_	_	_	_
@@ -7998,7 +7998,7 @@
 # genre_id = expedition
 # text = Æмæ цæмæн, ды… се ‘ппæт дæр… къласы ‘рдæг нæ сахуыр кодтой, нæ, æмæ-иу урок фехæлдтой, цæмæй сæ ма фæрса, уый тыххæй.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
-2	цæмæн	цæмæн	ADV	_	PronType=Int	_	_	_	_
+2	цæмæн	цы	PRON	_	Case=Dat|Number=Sing|PronType=Int	_	_	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 4	ды	ды	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 5	…	…	PUNCT	_	_	_	_	_	_

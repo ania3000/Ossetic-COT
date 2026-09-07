@@ -6835,7 +6835,7 @@
 14	гъама	гъама	INTJ	_	_	_	_	_	_
 15	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 16	,	,	PUNCT	_	_	_	_	_	_
-17	цæмæн	цæмæн	ADV	_	PronType=Int	_	_	_	_
+17	цæмæн	цы	PRON	_	Case=Dat|Number=Sing|PronType=Int	_	_	_	_
 18-19	æрлæууыдысты	_	_	_	_	_	_	_	_
 18	æр	æр	PART	_	_	_	_	_	_
 19	лæууыдысты	лæууын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -7084,7 +7084,7 @@
 12	,	,	PUNCT	_	_	_	_	_	_
 13	уой	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 14	цæстмæ	цæст	NOUN	_	Case=All|Number=Sing	_	_	_	_
-15	цæмæн	цæмæн	ADV	_	PronType=Int	_	_	_	_
+15	цæмæн	цы	PRON	_	Case=Dat|Number=Sing|PronType=Int	_	_	_	_
 16	дарыс	дарын	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
 
@@ -9587,7 +9587,7 @@
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Фараст	фараст	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
 5	сæ	сæ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
-6	цæмæн	цæмæн	ADV	_	PronType=Int	_	_	_	_
+6	цæмæн	цы	PRON	_	Case=Dat|Number=Sing|PronType=Int	_	_	_	_
 7-8	скодтай	_	_	_	_	_	_	_	_
 7	с	с	PART	_	_	_	_	_	_
 8	кодтай	кæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	_
