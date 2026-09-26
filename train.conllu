@@ -15838,7 +15838,7 @@
 14	чи	чи	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 15	у	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 16	,	,	PUNCT	_	_	_	_	_	_
-17	кæимæ	чи	PRON	_	Case=Com|Number=Sing	_	_	_	_
+17	кæимæ	чи	PRON	_	Case=Com|Number=Sing|PronType=Int	_	_	_	_
 18-19	фæцæйцыдтæ	_	_	_	_	_	_	_	_
 18	фæ	фæ	PART	_	_	_	_	_	_
 19	цæй	цæй	PART	_	_	_	_	_	_
@@ -23372,7 +23372,7 @@
 # sent_id = 1284
 # genre_id = expedition
 # text = Кто-то: Уæртæ Хадизæт.
-1	Кто-то	кто-то	PRON	_	Case=Nom|Number=Sing	_	_	_	_
+1	Кто-то	кто-то	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	:	:	PUNCT	_	_	_	_	_	_
 3	Уæртæ	уæртæ	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 4	Хадизæт	Хадизæт	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -30273,7 +30273,7 @@
 5	дзагæй	дзаг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 6	цыдысты	цæуын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 7	,	,	PUNCT	_	_	_	_	_	_
-8	иннæтæ	иннæ	PRON	_	Case=Nom|Number=Plur	_	_	_	_
+8	иннæтæ	иннæ	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 9	та	та	PART	_	_	_	_	_	_
 10	–	–	PUNCT	_	_	_	_	_	_
 11	афтидæй	афтид	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
@@ -33797,7 +33797,7 @@
 3	:	:	PUNCT	_	_	_	_	_	_
 4-5	Ацырдыгæй	_	_	_	_	_	_	_	_
 4	Ацы	ацы	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
-5	рдыгæй	æрдæг	PRON	_	Case=Abl|Number=Sing	_	_	_	_
+5	рдыгæй	æрдæг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 1817
@@ -47406,7 +47406,7 @@
 # sent_id = 2531
 # genre_id = expedition
 # text = Кто-то: Куыд ахъуыды кæнон?
-1	Кто-то	кто-то	PRON	_	Case=Nom|Number=Sing	_	_	_	_
+1	Кто-то	кто-то	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	:	:	PUNCT	_	_	_	_	_	_
 3	Куыд	куыд	ADV	_	PronType=Int	_	_	_	_
 4-5	ахъуыды	_	_	_	_	_	_	_	_
@@ -54068,8 +54068,8 @@
 1	Уыдон	уыдон	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
 2	уыдысты	уæвын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	Любовь	Любовь	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-4	Степановна	Степановна	PRON	_	Case=Nom|Number=Sing	_	_	_	_
-5	Щетинина	Щетинина	PRON	_	Case=Nom|Number=Sing	_	_	_	_
+4	Степановна	Степановна	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+5	Щетинина	Щетинина	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
 7-8	æртæккæ	_	_	_	_	_	_	_	_
 7	æр	æр	ADV	_	PronType=Dem	_	_	_	_
@@ -60178,7 +60178,7 @@
 10	-	-	PUNCT	_	_	_	_	_	_
 11	иу	иу	PART	_	_	_	_	_	_
 12	Шурикк	Шурикк	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-13	кæимæ	чи	PRON	_	Case=Com|Number=Sing	_	_	_	_
+13	кæимæ	чи	PRON	_	Case=Com|Number=Sing|PronType=Int	_	_	_	_
 14	куыста	кусын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
 16	уыдон	уыдон	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
@@ -66900,7 +66900,7 @@
 3	кæнæ	кæнæ	CCONJ	_	_	_	_	_	_
 4	иу	иу	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
 5	курсы	курс	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
-6	кæимæ	чи	PRON	_	Case=Com|Number=Sing	_	_	_	_
+6	кæимæ	чи	PRON	_	Case=Com|Number=Sing|PronType=Int	_	_	_	_
 7	ахуыр	ахуыр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	кодтат	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	_	_	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
