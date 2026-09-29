@@ -15190,7 +15190,7 @@
 16	,	,	PUNCT	_	_	_	_	_	_
 17	дам	дам	PART	_	_	_	_	_	_
 18	,	,	PUNCT	_	_	_	_	_	_
-19	сæ	сæ	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
+19	сæ	сæ	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 20	сæры	сæр	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 21	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 22-23	бацæудзæн	_	_	_	_	_	_	_	_
