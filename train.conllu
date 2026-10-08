@@ -48280,7 +48280,8 @@
 5	адæймаг	адæймаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	сæ	сæ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 7	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-8	фырдиссагæй	фырдиссаг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
+8	фыр	фыр	ADJ	_	_	_	_	_	_
+8	диссагæй	диссаг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 9	нал	нал	PART	_	Polarity=Neg	_	_	_	_
 10-11	фæхъуыды	_	_	_	_	_	_	_	_
 10	фæ	фæ	PART	_	_	_	_	_	_
@@ -75616,7 +75617,8 @@
 4	ба	ба	PART	_	_	_	_	_	_
 5	цъæх	цъæх	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	и	уæвын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-7	фырхъæрæй	фырхъæр	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
+7	фыр	фыр	ADJ	_	_	_	_	_	_
+7	хъæрæй	хъæр	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9-10	æрбалæбурдтой	_	_	_	_	_	_	_	_
 9	æрба	æрба	PART	_	_	_	_	_	_
