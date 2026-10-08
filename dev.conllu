@@ -1691,9 +1691,7 @@
 23	хистæры	хистæр	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 24	зондмæ	зонд	NOUN	_	Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 25	,	,	PUNCT	_	_	_	_	_	_
-26-27	кæдфæндыдæр	_	_	_	_	_	_	_	_
-26	кæд	кæд	ADV	_	PronType=Int	_	_	_	_
-27	фæнды	фæндын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+26	кæдфæнды	кæдфæнды	ADV	_	PronType=Ind	_	_	_	_
 28	дæр	дæр	PART	_	_	_	_	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
 
@@ -9092,9 +9090,7 @@
 2	,	,	PUNCT	_	_	_	_	_	_
 3	дам	дам	PART	_	_	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
-5-6	цыфæнды	_	_	_	_	_	_	_	_
-5	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-6	фæнды	фæндын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+5	цыфæнды	цыфæнды	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
 7	куы	куы	ADV	_	PronType=Int	_	_	_	_
 8	кæнат	кæнын	VERB	_	Mood=Sub|Number=Plur|Person=2|VerbForm=Fin	_	_	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
