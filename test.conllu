@@ -698,7 +698,7 @@
 3	,	,	PUNCT	_	_	_	_	_	_
 4	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 5	йæ	йæ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-6	хъусæн	хъусын	VERB	_	VerbForm=Inf2	_	_	_	_
+6	хъусæн	хъусын	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 7	дæр	дæр	PART	_	_	_	_	_	_
 8	вæййы	вæййын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 9	тынг	тынг	ADV	_	_	_	_	_	_
@@ -1011,7 +1011,7 @@
 25	,	,	PUNCT	_	_	_	_	_	_
 26	æнæ	æнæ	ADP	_	_	_	_	_	_
 27	сывæллæттæй	сывæллон	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
-28	гæнæн	кæнын	VERB	_	VerbForm=Inf2	_	_	_	_
+28	гæнæн	кæнын	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 51
@@ -1659,7 +1659,7 @@
 14	»	»	PUNCT	_	_	_	_	_	_
 15	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 16	«	«	PUNCT	_	_	_	_	_	_
-17	кæрдæн	кæрдын	VERB	_	VerbForm=Inf2	_	_	_	_
+17	кæрдæн	кæрдын	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 18	»	»	PUNCT	_	_	_	_	_	_
 19	–	–	PUNCT	_	_	_	_	_	_
 20	Салыгæрдæн	Салыгæрдæн	PROPN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
@@ -3151,7 +3151,7 @@
 4	размæ	раз	NOUN	_	Case=All|Number=Sing	_	_	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
 6	адæм	адæм	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-7	цæуæн	цæуын	VERB	_	VerbForm=Inf2	_	_	_	_
+7	цæуæн	цæуын	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	къæхты	къах	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 10	бынмæ	бын	NOUN	_	Case=All|Number=Sing	_	_	_	_
@@ -3688,7 +3688,7 @@
 8	,	,	PUNCT	_	_	_	_	_	_
 9	науæд	науæд	SCONJ	_	Polarity=Neg	_	_	_	_
 10	ын	йæ	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-11	уæйгæнæн	уæйгæнын	VERB	_	VerbForm=Inf2	_	_	_	_
+11	уæйгæнæн	уæйгæнын	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 12	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 13	уыди	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
@@ -5335,7 +5335,7 @@
 6	фæрдыг	фæрдыг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7-8	ссарæн	_	_	_	_	_	_	_	_
 7	сс	с	PART	_	_	_	_	_	_
-8	арæн	арын	VERB	_	Aspect=Perf|VerbForm=Inf2	_	_	_	_
+8	арæн	арын	NOUN	_	Aspect=Perf|Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 277
@@ -6461,7 +6461,7 @@
 1	Гъемæ	гъемæ	INTJ	_	_	_	_	_	_
 2	ма	ма	PART	_	_	_	_	_	_
 3	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-4	гæнæн	кæнын	VERB	_	VerbForm=Inf2	_	_	_	_
+4	гæнæн	кæнын	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 5	уыдис	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
 7	æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -7906,7 +7906,7 @@
 7	,	,	PUNCT	_	_	_	_	_	_
 8	стæй	стæй	ADV	_	_	_	_	_	_
 9	æнцон	æнцон	ADV	_	_	_	_	_	_
-10	хæцæн	хæцын	VERB	_	VerbForm=Inf2	_	_	_	_
+10	хæцæн	хæцын	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 11	уыдаид	уæвын	AUX	_	Mood=Irr|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
 12	уырдыгæй	уый	PRON	_	Case=Rcs|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 13	йе	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
@@ -8265,7 +8265,7 @@
 6	,	,	PUNCT	_	_	_	_	_	_
 7	Куадзæны	куадзæн	PROPN	_	Case=Ine|Number=Sing|VerbForm=Inf2	_	_	_	_
 8	ницы	ницы	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
-9	кусæн	кусын	VERB	_	VerbForm=Inf2	_	_	_	_
+9	кусæн	кусын	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 10	ис	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 11	,	,	PUNCT	_	_	_	_	_	_
 12	Куадзæны	Куадзæн	PROPN	_	Case=Gen|Number=Sing|VerbForm=Inf2	_	_	_	_
