@@ -51816,7 +51816,7 @@
 12	уарзгæйæ	уарзгæйæ	ADV	_	VerbForm=Conv2	_	_	_	_
 13	уыцы	уыцы	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
 14	куыст	куыст	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-15	кæнæн	кæнын	AUX	_	VerbForm=Inf2	_	_	_	_
+15	кæнæн	кæнæн	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 16	нæй	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 
@@ -61450,7 +61450,7 @@
 # text = Æмæ спор кæнгæ цæуæм.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2	спор	спор	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	кæнгæ	кæнын	AUX	_	VerbForm=Conv	_	_	_	_
+3	кæнгæ	кæнгæ	ADV	_	VerbForm=Conv	_	_	_	_
 4	цæуæм	цæуын	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
